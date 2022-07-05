@@ -25,7 +25,8 @@ pacman::p_load(
   lubridate,
   ggmap,
   # forcats,
-  bookdown
+  bookdown,
+  here
   # fasstr,
   # flextable,
   # english,
